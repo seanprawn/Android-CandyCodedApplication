@@ -10,11 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_2_StartTheGoogleMapsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_2_StartTheGoogleMapsActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
+  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -75,6 +74,56 @@
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._1_StartTheStoreInformationActivity" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_StartTheGoogleMapsActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_StartTheGoogleMapsActivity.make_uri_address" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
+      <option name="METHOD_NAME" value="make_uri_address" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_StartTheGoogleMapsActivity.test_xml" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
+      <option name="METHOD_NAME" value="test_xml" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
@@ -155,6 +204,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity.test_xml" />
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity.make_uri_address" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
       </list>
@@ -190,21 +242,56 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="500" y="265" key="FileChooserDialogImpl/0.0.1920.1040/1920.-269.1920.1040@0.0.1920.1040" timestamp="1601478348096" />
-    <state width="1381" height="278" key="GridCell.Tab.0.bottom" timestamp="1601479473170">
+    <state width="1381" height="343" key="GridCell.Tab.0.bottom" timestamp="1601481406773">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1381" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-269.1920.1040@0.0.1920.1040" timestamp="1601479473170" />
-    <state width="1381" height="278" key="GridCell.Tab.0.center" timestamp="1601479473170">
+    <state width="1381" height="343" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-269.1920.1040@0.0.1920.1040" timestamp="1601481406773" />
+    <state width="1381" height="343" key="GridCell.Tab.0.center" timestamp="1601481406773">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1381" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-269.1920.1040@0.0.1920.1040" timestamp="1601479473170" />
-    <state width="1381" height="278" key="GridCell.Tab.0.left" timestamp="1601479473170">
+    <state width="1381" height="343" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-269.1920.1040@0.0.1920.1040" timestamp="1601481406773" />
+    <state width="1381" height="343" key="GridCell.Tab.0.left" timestamp="1601481406773">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1381" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-269.1920.1040@0.0.1920.1040" timestamp="1601479473170" />
-    <state width="1381" height="278" key="GridCell.Tab.0.right" timestamp="1601479473170">
+    <state width="1381" height="343" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-269.1920.1040@0.0.1920.1040" timestamp="1601481406773" />
+    <state width="1381" height="343" key="GridCell.Tab.0.right" timestamp="1601481406773">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1381" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-269.1920.1040@0.0.1920.1040" timestamp="1601479473170" />
+    <state width="1381" height="343" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-269.1920.1040@0.0.1920.1040" timestamp="1601481406773" />
+    <state width="1381" height="343" key="GridCell.Tab.1.bottom" timestamp="1601481406773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1381" height="343" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-269.1920.1040@0.0.1920.1040" timestamp="1601481406773" />
+    <state width="1381" height="343" key="GridCell.Tab.1.center" timestamp="1601481406773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1381" height="343" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-269.1920.1040@0.0.1920.1040" timestamp="1601481406773" />
+    <state width="1381" height="343" key="GridCell.Tab.1.left" timestamp="1601481406773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1381" height="343" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-269.1920.1040@0.0.1920.1040" timestamp="1601481406773" />
+    <state width="1381" height="343" key="GridCell.Tab.1.right" timestamp="1601481406773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1381" height="343" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-269.1920.1040@0.0.1920.1040" timestamp="1601481406773" />
+    <state x="417" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1601481423656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="417" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-269.1920.1040@0.0.1920.1040" timestamp="1601481423656" />
+    <state x="376" y="244" key="run.anything.popup" timestamp="1601480497805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="376" y="244" key="run.anything.popup/0.0.1920.1040/1920.-269.1920.1040@0.0.1920.1040" timestamp="1601480497805" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_2_StartTheGoogleMapsActivity.java</url>
+          <line>159</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
